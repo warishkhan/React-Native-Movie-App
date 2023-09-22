@@ -16,24 +16,4 @@ export default function App() {
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: 'blue',
-    alignItems: 'center',
-    justifyContent: 'center',
-    flexDirection:'row'
-  },
-  textcolor:{
-    color:'white',
-    borderWidth:3,
-    borderColor:'red',
-    padding:5,
-    width:200,
-    height:100,
-    textAlign:'center',
-    backgroundColor:'green',
-    textAlignVertical:'center',
-    margin:3
-  }
-});
+
